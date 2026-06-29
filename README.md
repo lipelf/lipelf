@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Criciúma,%20SC-Brasil-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Ciência%20da%20Computação-Unesc%20%7C%202023–2027-6C63FF?style=flat-square&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Inglês-C1%20%7C%20J--1%20EUA-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Working%20but%20available-blue?style=flat-square" />
 </p>
 
 ---
