@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor Backend Jr. na **LM Sistemas**, onde construo e mantenho APIs REST escaláveis com **Node.js**, **NestJS**, **TypeScript** e **PostgreSQL**, aplicando princípios de **Clean Architecture**.
+Sou desenvolvedor Backend. na **LM Sistemas**, onde construo e mantenho APIs REST escaláveis com **Node.js**, **NestJS**, **TypeScript** e **PostgreSQL**, aplicando princípios de **Clean Architecture**.
 
 Tenho passagem por **QA de automação na Thomson Reuters** (Playwright, Selenium, Cucumber/BDD) e por desenvolvimento de **IA aplicada** com integração à OpenAI API. Inglês avançado (C1) — desenvolvido durante intercâmbio nos EUA pelo programa J-1.
 
@@ -30,6 +30,7 @@ Tenho passagem por **QA de automação na Thomson Reuters** (Playwright, Seleniu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Docker](https://shields.io)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=flat-square)
