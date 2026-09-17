@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/Criciúma,%20SC-Brasil-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Unesc-Ciência%20da%20Computação-3c378c?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/English-C1%20·%20J--1-78c8ff?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Status-Working%20but%20available-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Working%20·%20Open%20to%20talks-2ea44f?style=for-the-badge" />
+<a href="https://www.luizfellipe.com.br/"><img src="https://img.shields.io/badge/Freelas-Abertos-ffb86b?style=for-the-badge&logo=rocket&logoColor=black" /></a>
 
 </div>
 
@@ -108,9 +109,29 @@ Fevereiro 2023 – Junho 2027 *(em andamento)*
 
 <img src="./assets/divider.svg" width="100%" />
 
+## `> ./freelance --info`
+
+Além do trabalho na LM Sistemas, **aceito projetos freelance**: APIs, backends, sistemas web completos e integrações. Alguns já estão no ar:
+
+| Projeto | Tipo | Stack |
+|---|---|---|
+| [**Fábrica de Sonhos**](https://fabricasonho.com.br) | Fullstack | NestJS · TypeORM · Next.js · TypeScript |
+| **Lovvier** | Backend | NestJS · TypeScript |
+
+<p align="center">
+  <a href="https://www.luizfellipe.com.br/">
+    <img src="https://img.shields.io/badge/Portfólio%20%26%20orçamentos-luizfellipe.com.br-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<img src="./assets/divider.svg" width="100%" />
+
 ## `> ./contato.sh`
 
 <p align="center">
+  <a href="https://www.luizfellipe.com.br/">
+    <img src="https://img.shields.io/badge/Site-luizfellipe.com.br-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="mailto:luizfrs2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-luizfrs2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
