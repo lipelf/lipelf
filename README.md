@@ -34,7 +34,7 @@ Tenho passagem por **QA de automação na Thomson Reuters** (Playwright, Seleniu
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=serverless&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square&logo=serverless&logoColor=white)
 
 **Banco de dados & ORM**
 
