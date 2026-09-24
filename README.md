@@ -1,5 +1,8 @@
 <div align="center">
 
+<a href="https://github.com/lipelf/lipelf/blob/main/README.md"><img src="https://img.shields.io/badge/PT--BR-Portugu%C3%AAs-6C63FF?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Ler em Português" /></a>
+<a href="https://github.com/lipelf/lipelf/blob/main/README.en.md"><img src="https://img.shields.io/badge/EN--US-English-2b2f45?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English" /></a>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=720&lines=Luiz+Fellipe+Rocha+dos+Santos;Backend+Developer+%E2%80%A2+NestJS+%2B+TypeScript;APIs+limpas%2C+escal%C3%A1veis+e+bem+testadas" alt="Luiz Fellipe Rocha dos Santos" />
 
 <img src="./assets/profile-card.svg" width="100%" alt="luiz@lipelf — neofetch com retrato ASCII" />
